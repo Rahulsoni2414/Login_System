@@ -1,2 +1,0 @@
--- Modify ROLL_NO to BIGINT to support 10 digits
-ALTER TABLE STUDENT MODIFY ROLL_NO BIGINT;
